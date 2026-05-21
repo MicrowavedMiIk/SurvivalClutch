@@ -5,6 +5,9 @@ This is a personal Minecraft 1.8.9 mod I’ve been hacking away at to automate c
 ### A quick heads-up
 **This code is definitely not perfect.** It’s a work in progress, and there are probably edge cases I haven't accounted for yet. It works for my setup, but feel free to dive in and mess with it if you find something that needs fixing.
 
+### Showcase
+https://github.com/user-attachments/assets/c1d0cbde-2f24-469a-85a4-77179bb369d4
+
 ### Downloads
 If you just want to use the mod and don't care about the source code, you can download the latest version directly from the **[Releases Page](https://github.com/MicrowavedMiIk/SurvivalClutch/releases/tag/minecraft)**.
 
