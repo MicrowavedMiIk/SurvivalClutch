@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "survivalclutch",
+    "name": "Survival Clutch",
+    "description": "Automated block placement for clutches.",
+    "version": "1.0",
+    "mcversion": "1.8.9",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["GasiebuliKiwi"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
