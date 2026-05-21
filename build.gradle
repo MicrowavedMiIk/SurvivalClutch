@@ -16,7 +16,6 @@ version = "1.0"
 group= "com.MicrowavedMiIk.modid"
 archivesBaseName = "autoclutch"
 
-// FORCE JAVA 8 COMPILATION RULES
 sourceCompatibility = JavaVersion.VERSION_1_8
 targetCompatibility = JavaVersion.VERSION_1_8
 
@@ -27,7 +26,6 @@ minecraft {
 }
 
 dependencies {
-    // Custom library dependencies can be defined here if needed
 }
 
 processResources
